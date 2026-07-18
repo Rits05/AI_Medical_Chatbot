@@ -1,0 +1,11 @@
+medicine,used_for,side_effects,interactions,contraindications
+Metformin,Type 2 Diabetes,"Nausea, Diarrhea, Stomach upset","Alcohol, Contrast dye","Kidney disease"
+Paracetamol,"Pain and Fever","Liver damage (high doses), Rash","Alcohol","Severe liver disease"
+Ibuprofen,"Pain and Inflammation","Stomach pain, Nausea","Blood thinners, Aspirin","Stomach ulcer"
+Aspirin,"Pain, Fever, Blood thinning","Bleeding, Stomach irritation","Ibuprofen, Warfarin","Bleeding disorders"
+Amoxicillin,"Bacterial infections","Diarrhea, Rash","Warfarin","Penicillin allergy"
+Cetirizine,"Allergy","Drowsiness, Dry mouth","Alcohol","Severe kidney disease"
+Omeprazole,"Acidity, GERD","Headache, Diarrhea","Clopidogrel","Hypersensitivity"
+Atorvastatin,"High Cholesterol","Muscle pain, Nausea","Grapefruit juice","Liver disease"
+Losartan,"High Blood Pressure","Dizziness, Fatigue","Potassium supplements","Pregnancy"
+Amlodipine,"High Blood Pressure","Swelling, Headache","Simvastatin","Severe hypotension"
