@@ -7,7 +7,7 @@
 <p align="center">
 An AI-powered Medical Chatbot using <b>RAG</b>, <b>LangChain</b>, <b>FAISS</b>, and <b>Llama 3.2</b> for intelligent medical document analysis and report summarization.
 </p>
----
+
 
 ## 📌 Project Overview
 
@@ -262,4 +262,4 @@ This project is intended **for educational and research purposes only**. It does
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star on GitHub!
+
