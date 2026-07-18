@@ -1,9 +1,12 @@
-<img width="1376" height="768" alt="Gemini_Generated_Image_2cvuvf2cvuvf2cvu" src="https://github.com/user-attachments/assets/d177d8cf-6d25-48fb-9795-5840b1c98b4c" />
----
-#🏥AI Medical Chatbot with RAG & Medical Report Analysis
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d177d8cf-6d25-48fb-9795-5840b1c98b4c" width="100%">
+</p>
 
-An AI-powered Medical Chatbot that combines **Retrieval-Augmented Generation (RAG)** with **Medical Report Analysis** to help users understand medical documents, laboratory reports, and medicine-related information. The application leverages **Large Language Models (LLMs)** to provide intelligent responses, analyze laboratory reports, and generate simplified health summaries.
+<h1 align="center">🏥 AI Medical Chatbot with RAG & Medical Report Analysis</h1>
 
+<p align="center">
+An AI-powered Medical Chatbot using <b>RAG</b>, <b>LangChain</b>, <b>FAISS</b>, and <b>Llama 3.2</b> for intelligent medical document analysis and report summarization.
+</p>
 ---
 
 ## 📌 Project Overview
